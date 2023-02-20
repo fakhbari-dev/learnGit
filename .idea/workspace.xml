@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d2de045-7c6a-4b57-b6ea-4e8bfe661e52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="0" key="RollbackChangesDialog" timestamp="1676909453327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="0" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1676909453327" />
+    <state x="397" y="52" width="571" height="624" key="find.popup" timestamp="1676909480344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="52" width="571" height="624" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1676909480344" />
+  </component>
+</project>
