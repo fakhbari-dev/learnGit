@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d2de045-7c6a-4b57-b6ea-4e8bfe661e52" name="Default Changelist" comment="" />
+    <list default="true" id="5d2de045-7c6a-4b57-b6ea-4e8bfe661e52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -41,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676909624960</updated>
-      <workItem from="1676909626058" duration="423000" />
+      <workItem from="1676909626058" duration="1465000" />
     </task>
     <servers />
   </component>
@@ -65,6 +73,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="0" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1676909453327" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1676910298532">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1676910298532" />
     <state x="397" y="52" width="571" height="624" key="find.popup" timestamp="1676909480344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
