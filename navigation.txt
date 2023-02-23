@@ -1,3 +1,6 @@
 home
 contact
 shop
+about me
+call me
+articles
